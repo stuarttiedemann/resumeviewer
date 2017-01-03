@@ -1,0 +1,223 @@
+{
+  "main": {
+    "name":"Stuart Tiedemann",
+    "occupation": "Web Developer",
+    "description": "I program and build websites and web applications of all types.",
+    "image": "images/profilepic.jpg",
+    "bio": "I have a degree in Electrical Engineering Technology(BSEET) and worked as an Electrical Engineer for four years. My main responsibilities involved troubleshooting and programming PLC's and other industrial controls.  I have also worked in finance as a licensed, professional equities trader for twelve years with several different firms and worked from a remote home office for nine years. Currently, I work remotely as a freelance web developer.  I have full-stack exposure but most of my experience and work has been with frontend technologies.  I am experienced with HTML, CSS, Javascript, React, & Angular.",
+    "email": "tiedemannstuart@gmail.com",
+    "phone": "850-460-4835",
+    "address": {
+      "street": "40 W. Cedar Bend Rd.",
+      "city": "Santa Rosa Beach",
+      "state": "FL",
+      "zip": "32459"
+    },
+    "website": "stuarttiedemann.com",
+    "resumedownload": "/resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/stuarttiedemann",
+        "className":"fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/stuart-tiedemann-a31353a3",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "DigitalCrafts",
+        "degree": "16 Week full-stack bootcamp",
+        "graduated": "February 2016",
+        "description": "Developer in 16 Week full- stack Immersive Bootcamp. Spent 70 hours per week learning MEAN and LAMP stacks with a focus on javascript including Node. js. Comfortable with front- end technologies and integration with back-end technologies such as Node. js and PHP. Front-end technology experience includes Sass, HTML, CS3, jQuery, AnglularJs, and bootstrap. Worked on multiple projects that were a combination of independent and paired programming exercises on a daily basis and documented progress through github. Familiar with responsive design, SEO, and site performance."
+      },
+      {
+        "school": "Southern Polytechnic State University",
+        "degree": "Bachelor of Science Electrical Engineering Technology",
+        "graduated": "August 1999",
+        "description": "Bachelors degree in an engineering technology field that implements and applies the principles of electrical engineering.EET deals with the design, application, installation, manufacturing, operation and/or maintenance of electrical/electronic(s) systems. EET is a specialized discipline that has more focus on application, theory, and applied design, and implementation."
+      }
+    ],
+    "work": [
+      {
+        "company": "Army of Bees",
+        "title": "Frontend Developer",
+        "years": "September 2015 - Present",
+        "description": "Work with Frontend technologies including HTML, CSS, Javascript, and AngularJS.  Responsible for HTML and CSS styling changes for a large corporate site.  Use AngularJS to implement business logic for apps."
+      },
+      {
+        "company": "Kredible",
+        "title": "Frontend Web Developer",
+        "years": "April 2016 - July 2016",
+        "description": "Four month contract as Lead UI/Front-End developer on a proprietary search tool application. The project was developed using AngularJS with “Controller As” syntax. Custom services and directives were developedto fulfill the needs of the project including developing an API service to interface with a NodeJS back end. Technologies used in this project were: AngularJS, Javascript, Bootstrap, HTML, SASS, CSS & Webpack"
+      },
+      {
+        "company": "BootcampXchange",
+        "title": "Full-Stack Web Developer",
+        "years": "January 2016 - February 2016",
+        "description": "Partnered with another developer on a contract to build the worlds first & only marketplace for employers and code schoolers. This project was built using PHP and SQL. Other technologies utilized included Bootstrap, Javascript, HTML, & CSS. Worked on both the Front-End and Back-End."
+      },
+      {
+        "company": "Independent Equities Trader",
+        "title": "Futures Trader",
+        "years": "August 2014 - August 2015",
+        "description": "Used own capital to implement various short-term futures trading strategies"
+      },
+      {
+        "company": "WTS Proprietary Trading Group",
+        "title": "Proprietary Equities Trader",
+        "years": "November 2003 - November 2014",
+        "description": "Worked in the finance industry for twelve years as an equities trader. This was a self- directed position that was exclusively commission based. Worked independently from a home office and was responsible for the buying and selling of securities. Responsible for a portfolio that averaged $500,000.  Developed trading strategies to take advantage of short-term price movements in equities."
+      },
+      {
+        "company": "Ricoh Electronics",
+        "title": "Electrical Engineer",
+        "years": "November 2001 - November 2003",
+        "description": "Performed troubleshooting and executed programming modifications on an array of PLC types including: Allen- Bradley SLC 500 & PLC-5, Yaskawa CP3300, Automation Direct, and various Omron PLCs."
+      },
+      {
+        "company": "Yokogawa Corporation of America",
+        "title": "Product Specialist",
+        "years": "October 1999 - September 2000",
+        "description": "Provided technical support to inside sales teams and customers on a variety of industrial controls including PID controllers and PLC's."
+      }
+    ],
+    "skills": [
+      {
+        "name": "AngularJS",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "45%"
+      },
+      {
+        "name": "MeteorJS",
+        "level": "40%"
+      },
+      {
+        "name": "Javascript/Jquery",
+        "level": "70%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "85%"
+      },
+      {
+        "name": "SASS",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BootcampXchange",
+        "description": "The world's first & only exclusive marketplace for employers & code schoolers",
+        "category": "full-stack",
+        "tags": "php, javascript",
+        "image": "images/portfolio/bootcampxchange.png",
+        "url": "http://www.bootcampxchange.com/",
+        "modal": "#modal-1"
+      },
+      {
+        "title": "Open Movie Database",
+        "description": "Use the Open Movie Database API to generate a list of currently playing movies or search for actors and TV shows",
+        "category": "frontend",
+        "tags": "jquery, responsive design, AJAX",
+        "image": "images/portfolio/moviedatabase.png",
+        "url": "http://openmoviedatabase.bitballoon.com/",
+        "modal": "#modal-2"
+      },
+      {
+        "title": "Hippo Guardian",
+        "description": "A whimisical site where you can show your love for hippos!",
+        "category": "full-stack",
+        "tags": "MeteorJS, Bootstrap, MongoDB",
+        "image": "images/portfolio/hipposite.png",
+        "url": "http://hipposite.herokuapp.com/",
+        "modal": "#modal-3"
+      },
+      {
+        "title": "Blackjack",
+        "description": "A blackjack game programmed in javascript",
+        "category": "Javascript",
+        "tags": "javascript",
+        "image": "images/portfolio/blackjack.png",
+        "url": "http://stuartsblackjack.bitballoon.com/",
+        "modal": "#modal-4"
+      },
+      {
+        "title": "Google Maps API",
+        "description": "Use the Google Maps API to display information about the 40 largest cities in the US and to plot driving directions to/from each location.",
+        "category": "Javascript",
+        "tags": "javascript, api",
+        "image": "images/portfolio/googlemapsapi.png",
+        "url": "http://googlemapsapi.bitballoon.com/#",
+        "modal": "#modal-5"
+      },
+      {
+        "title": "Yahoo Stocks API",
+        "description": "Use Yahoo stocks API to retrieve information about your favorite stocks.",
+        "category": "Javascript",
+        "tags": "javascript, api",
+        "image": "images/portfolio/yahoostocks.png",
+        "url": "http://stuarttiedemann.com/angular-stocks/#/",
+        "modal": "#modal-6"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "text": "We had the pleasure of working with Stuart on a critical project. He picks up new projects quickly, works well with the team, and puts his heart into his work. We look forward to working with Stuart in the future. I highly recommend him.",
+      "user": "Brad Shepard"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
